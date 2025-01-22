@@ -592,7 +592,7 @@ Alternatively, you can provide a custom message for a specific element by passin
 ### Customizing Deprecation Notices
 You can customize deprecation messages in your i18n files:
 
-Element-Specific Notices
+#### Element-Specific Notices
 Define a specific notice for an individual element by name:
 ~~~ yaml
 en:
