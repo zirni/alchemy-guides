@@ -598,7 +598,7 @@ Define a specific notice for an individual element by name:
 en:
   alchemy:
     element_deprecation_notices:
-      hero_carousel_element: Hero carouself will be removed very soon. Dont use anymore ;-)
+      hero_carousel_element: Hero carousel will be removed very soon. Don't use anymore ;-)
 ~~~
 
 Global Notice
