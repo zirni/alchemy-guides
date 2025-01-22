@@ -570,7 +570,7 @@ Occasionally, an element needs to be removed, either because it is no
 longer in use or is being replaced by another.
 AlchemyCMS provides a straightforward deprecation system to notify editors of such changes.
 
-### Marking an Element as Deprecated
+### Mark an element as deprecated
 
 Add `deprecated: true` to the element definition to mark it as deprecated:
 ~~~ yaml
