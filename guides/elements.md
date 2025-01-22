@@ -568,7 +568,7 @@ When adding a new top-level element, the "Paste from clipboard" tab will be visi
 
 Occasionally, an element needs to be removed, either because it is no
 longer in use or is being replaced by another.
-AlchemyCMS provides a straightforward deprecation system to notify editors of such changes.
+Alchemy provides a straightforward deprecation system to notify editors of such changes.
 
 ### Mark an element as deprecated
 
