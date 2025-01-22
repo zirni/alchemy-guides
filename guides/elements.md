@@ -580,7 +580,7 @@ Add `deprecated: true` to the element definition to mark it as deprecated:
 
 By default, a deprecation notice will be displayed with the following message:
 
-`WARNING! This element is deprecated and will be removed soon. Please do not use it anymore.`
+```WARNING! This element is deprecated and will be removed soon. Please do not use it anymore.```
 
 
 Alternatively, you can provide a custom message for a specific element by passing a string:
