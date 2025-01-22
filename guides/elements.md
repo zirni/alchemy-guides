@@ -601,7 +601,7 @@ en:
       hero_carousel_element: Hero carousel will be removed very soon. Don't use anymore ;-)
 ~~~
 
-Global Notice
+#### Global Notice
 Modify the general deprecation notice applied to all elements:
 ~~~ yaml
 en:
